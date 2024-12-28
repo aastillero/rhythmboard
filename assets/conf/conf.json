@@ -1,0 +1,8 @@
+{
+  "contact_email": "rfeltham@useradd.com,cpequino@useradd.com",
+  "app_access_code": "444",
+  "app_config_code": "613",
+  "app_local_server": "https://db0dad9b.ngrok.io",
+  "app_local_server2": "https://b74bab50.ngrok.io",
+  "app_version": "1.17.17"
+}
