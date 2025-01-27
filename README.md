@@ -15,11 +15,6 @@ A real-time dance competition monitoring board for event halls. Displays complet
 ## 📸 App Preview
 <img src="/assets/images/screenshot.png" width="300">
 
-**To add screenshots**:
-1. Create an `assets/screenshots/` folder.
-2. Save your screenshots with the names `current_heat.png`, `on_deck.png`, and `ads.png`.
-3. Update the table above if your filenames differ.
-
 ---
 
 ## 🛠️ Installation
