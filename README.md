@@ -12,10 +12,8 @@ A real-time dance competition monitoring board for event halls. Displays complet
 
 ---
 
-## 📸 Screenshots
-| Current Heat | On-Deck Participants | Ad Display |
-|--------------|-----------------------|------------|
-| <img src="assets/screenshots/current_heat.png" width="300"> | <img src="assets/screenshots/on_deck.png" width="300"> | <img src="assets/screenshots/ads.png" width="300"> |
+## 📸 App Preview
+<img src="/assets/images/screenshot.png" width="300">
 
 **To add screenshots**:
 1. Create an `assets/screenshots/` folder.
